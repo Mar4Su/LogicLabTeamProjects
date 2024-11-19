@@ -1,0 +1,435 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bazoo/Documents/lessons/2022-2/logic lab/Project/simulation/qsim
+vFA
+Z1 !s110 1669740793
+!i10b 1
+!s100 DBRkK6NAfTDie<JA@jBFY0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IMh=3^[?=^KLMllH45LjC70
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1669740792
+Z4 8week11.vo
+Z5 Fweek11.vo
+!i122 8
+L0 32 156
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1669740793.000000
+Z8 !s107 week11.vo|
+Z9 !s90 -work|work|week11.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@f@a
+vFA_vlg_vec_tst
+R1
+!i10b 1
+!s100 MU4bTBQ9dOn=0SP2]fFCP2
+R2
+I=[GNi1JbcBikPmM>:Sm9z3
+R3
+R0
+w1669740791
+8FAtest.vwf.vt
+FFAtest.vwf.vt
+!i122 9
+L0 30 58
+R6
+r1
+!s85 0
+31
+R7
+!s107 FAtest.vwf.vt|
+!s90 -work|work|FAtest.vwf.vt|
+!i113 1
+R10
+R11
+n@f@a_vlg_vec_tst
+vmain
+Z12 !s110 1669747619
+!i10b 1
+!s100 CECB^N<f3V`C0VV_I=hk93
+R2
+IzW7eS9WJUIY::K8UA;7201
+R3
+R0
+w1669747617
+R4
+R5
+!i122 34
+L0 32 62580
+R6
+r1
+!s85 0
+31
+!s108 1669747618.000000
+R8
+R9
+!i113 1
+R10
+R11
+vmain_vlg_vec_tst
+R12
+!i10b 1
+!s100 4ZcNjQfh7izGXVW]1R6F80
+R2
+IJ98^JaP@S^WdMF8h48cL`3
+R3
+R0
+w1669747616
+8TEST1.vwf.vt
+FTEST1.vwf.vt
+!i122 35
+L0 30 154
+R6
+r1
+!s85 0
+31
+!s108 1669747619.000000
+!s107 TEST1.vwf.vt|
+!s90 -work|work|TEST1.vwf.vt|
+!i113 1
+R10
+R11
+vPiezo_module
+Z13 !s110 1669742755
+!i10b 1
+!s100 C5nLU[4NLejHgH_0b^5nS3
+R2
+Ia_Xzd01oC[`7Z04mYTIH_0
+R3
+R0
+w1669742754
+R4
+R5
+!i122 12
+L0 32 61360
+R6
+r1
+!s85 0
+31
+!s108 1669742754.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@piezo_module
+vPiezo_module_vlg_vec_tst
+R13
+!i10b 1
+!s100 <:SWO8lHT9`N23Yl1UcOB3
+R2
+IV2=N9<7ll@^EgBFzn[KIM0
+R3
+R0
+w1669742753
+8piezoTestModule.vwf.vt
+FpiezoTestModule.vwf.vt
+!i122 13
+L0 30 123
+R6
+r1
+!s85 0
+31
+!s108 1669742755.000000
+!s107 piezoTestModule.vwf.vt|
+!s90 -work|work|piezoTestModule.vwf.vt|
+!i113 1
+R10
+R11
+n@piezo_module_vlg_vec_tst
+vpiezo_mux
+Z14 !s110 1669702110
+!i10b 1
+!s100 HbB0>:4J@Di1MjHEMN?ze1
+R2
+IHlJmUXh?mA@Y7c3IkU:3^1
+R3
+R0
+w1669702108
+R4
+R5
+!i122 0
+L0 32 340
+R6
+r1
+!s85 0
+31
+Z15 !s108 1669702110.000000
+R8
+R9
+!i113 1
+R10
+R11
+vpiezo_mux_vlg_vec_tst
+R14
+!i10b 1
+!s100 @Sd5_^AcaoIX7_oC>cnfF0
+R2
+Ia6e3KeeejW8bP0oWnWB=E2
+R3
+R0
+w1669702107
+8test1.vwf.vt
+Ftest1.vwf.vt
+!i122 1
+L0 30 105
+R6
+r1
+!s85 0
+31
+R15
+!s107 test1.vwf.vt|
+!s90 -work|work|test1.vwf.vt|
+!i113 1
+R10
+R11
+vpink_1
+Z16 !s110 1669730497
+!i10b 1
+!s100 J_mI<CQ4_CI?Z1[R]To1O1
+R2
+I:lG6FANmV;cPAK[dBkGL>1
+R3
+R0
+w1669730496
+R4
+R5
+!i122 6
+Z17 L0 32 176
+R6
+r1
+!s85 0
+31
+Z18 !s108 1669730497.000000
+R8
+R9
+!i113 1
+R10
+R11
+vpink_1_vlg_vec_tst
+R16
+!i10b 1
+!s100 5IO^HeN2oBaZ`0lz]`i[W2
+R2
+IkRGNM6@z^3X?BZmLRH=SN0
+R3
+R0
+w1669730495
+8pinktet.vwf.vt
+Fpinktet.vwf.vt
+!i122 7
+L0 30 48
+R6
+r1
+!s85 0
+31
+R18
+!s107 pinktet.vwf.vt|
+!s90 -work|work|pinktet.vwf.vt|
+!i113 1
+R10
+R11
+vpurple
+!s110 1669744751
+!i10b 1
+!s100 1WTPeJNQiGz0mlPOhY9:o0
+R2
+I5z?<zD01kT=0gXUYL=ndV3
+R3
+R0
+Z19 w1669744750
+R4
+R5
+!i122 26
+R17
+R6
+r1
+!s85 0
+31
+Z20 !s108 1669744751.000000
+R8
+R9
+!i113 1
+R10
+R11
+vpurple_vlg_vec_tst
+!s110 1669744752
+!i10b 1
+!s100 6;N@GfGBkeIXGDX^Z[:6;1
+R2
+IH7l_]014nbJW1C=5bCI:73
+R3
+R0
+R19
+8testPurple.vwf.vt
+FtestPurple.vwf.vt
+!i122 27
+L0 30 54
+R6
+r1
+!s85 0
+31
+R20
+!s107 testPurple.vwf.vt|
+!s90 -work|work|testPurple.vwf.vt|
+!i113 1
+R10
+R11
+vtestPiezo
+Z21 !s110 1669720164
+!i10b 1
+!s100 LWl4O8S7Z<AEjHT_6VNjX1
+R2
+IzShL1nMQ:CWP4^5[JRE030
+R3
+R0
+Z22 w1669720163
+R4
+R5
+!i122 4
+L0 32 1241
+R6
+r1
+!s85 0
+31
+Z23 !s108 1669720164.000000
+R8
+R9
+!i113 1
+R10
+R11
+ntest@piezo
+vtestPiezo_vlg_vec_tst
+R21
+!i10b 1
+!s100 d`ckjXg[`mX98h4?TYA[N1
+R2
+IA>gP5Mz4Eio7lJZHR2F;;3
+R3
+R0
+R22
+8test_.vwf.vt
+Ftest_.vwf.vt
+!i122 5
+L0 30 44
+R6
+r1
+!s85 0
+31
+R23
+!s107 test_.vwf.vt|
+!s90 -work|work|test_.vwf.vt|
+!i113 1
+R10
+R11
+ntest@piezo_vlg_vec_tst
+vthreeBitBinaryAdder
+Z24 !s110 1669741760
+!i10b 1
+!s100 YRb`ODcYY1Sjmh4ABINUY2
+R2
+I9M:Ln;9cz9bkM;8=m36hW2
+R3
+R0
+w1669741759
+R4
+R5
+!i122 10
+L0 32 220
+R6
+r1
+!s85 0
+31
+Z25 !s108 1669741760.000000
+R8
+R9
+!i113 1
+R10
+R11
+nthree@bit@binary@adder
+vthreeBitBinaryAdder_vlg_vec_tst
+R24
+!i10b 1
+!s100 S4J[E`A;64ecKonh6i_H43
+R2
+I_5Fo2;OiEeadjSTc5N2@N1
+R3
+R0
+w1669741758
+8test4.vwf.vt
+Ftest4.vwf.vt
+!i122 11
+L0 30 49
+R6
+r1
+!s85 0
+31
+R25
+!s107 test4.vwf.vt|
+!s90 -work|work|test4.vwf.vt|
+!i113 1
+R10
+R11
+nthree@bit@binary@adder_vlg_vec_tst
+vthreeBitReg
+Z26 !s110 1669743768
+!i10b 1
+!s100 SmOgI>_FFUT[FLZWXS2<V2
+R2
+I`F7Gl5Jie6G]E3O`JFOdf1
+R3
+R0
+Z27 w1669743767
+R4
+R5
+!i122 16
+L0 32 221
+R6
+r1
+!s85 0
+31
+Z28 !s108 1669743768.000000
+R8
+R9
+!i113 1
+R10
+R11
+nthree@bit@reg
+vthreeBitReg_vlg_vec_tst
+R26
+!i10b 1
+!s100 j^k1kX@CnESCRcKAnS?eA1
+R2
+IETanmUg@9gK<lCF=<H0Oa0
+R3
+R0
+R27
+8regTest.vwf.vt
+FregTest.vwf.vt
+!i122 17
+L0 30 65
+R6
+r1
+!s85 0
+31
+R28
+!s107 regTest.vwf.vt|
+!s90 -work|work|regTest.vwf.vt|
+!i113 1
+R10
+R11
+nthree@bit@reg_vlg_vec_tst

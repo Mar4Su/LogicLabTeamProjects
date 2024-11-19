@@ -1,0 +1,49 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "green_1" LOC = T1;
+NET "green_2" LOC = V3;
+NET "green_3" LOC = P2;
+NET "green_4" LOC = R1;
+NET "red_1" LOC = T2;
+NET "red_2" LOC = U1;
+NET "red_3" LOC = P3;
+NET "red_4" LOC = R3;
+NET "rst" LOC = L4;
+
+NET "clk" IOSTANDARD = LVCMOS25;
+NET "clk" CLOCK_DEDICATED_ROUTE = FALSE;
+
+NET "clk" LOC = AB16;
+
+NET "pin_name1" LOC = L1;
+NET "pin_name2" LOC = K2;
+NET "pin_name3" LOC = M3;
+NET "pin_name4" LOC = M1;
+NET "pin_name5" LOC = N3;
+NET "pin_name6" LOC = N1;
+NET "pin_name7" LOC = M2;
+NET "pin_name8" LOC = L3;
+NET "pin_name9" LOC = K4;
+NET "pin_name10" LOC = K1;
+
+NET "com1" LOC = G7;
+NET "com2" LOC = G6;
+NET "com3" LOC = F7;
+NET "com4" LOC = F5;
+NET "com5" LOC = K7;
+NET "com6" LOC = K6;
+NET "com7" LOC = K5;
+NET "com8" LOC = J7;
+NET "a" LOC = E6;
+NET "b" LOC = E5;
+NET "c" LOC = D5;
+NET "d" LOC = D6;
+NET "e" LOC = J6;
+NET "f" LOC = H8;
+NET "g" LOC = H6;
+NET "piezo" LOC = W15;
+NET "Motor_A" LOC = W17;
+NET "Motor_As" LOC = T16;
+NET "Motor_B" LOC = Y17;
+NET "Motor_Bs" LOC = U16;
